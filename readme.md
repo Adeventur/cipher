@@ -19,7 +19,7 @@ My Cipher project are sets of instructions on how to capitaliz, replace to know 
 * Click on cipher/index.html
 
 >## Known Bugs
-* Bugs might happen by open it 
+* Bugs might 
 
 
 >## License
