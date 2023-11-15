@@ -43,7 +43,7 @@ $(document).redy(function () {
     return middleLetter + sentence.slice(0, middleLetter.length);
   }
   const originalSentence = "i am a sentence";
-  // const result = addMiddleLetter(originalSentence);
+  const result = addMiddleLetter(originalSentence);
   console.log(result);
 
   // bonus 
