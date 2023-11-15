@@ -1,4 +1,4 @@
-// $(document).redy(function () {
+$(document).ready(function () {
   let sentence = prompt('write a sentence');
   var text = sentence;
 
