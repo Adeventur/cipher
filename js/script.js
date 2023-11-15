@@ -16,7 +16,7 @@ $(document).ready(function () {
   }
 
   // Third function (callFunctions())
-  function callFunctions() {
+  // function callFunctions() {
     newString();
     reverseNewstring();
     return text + reverseNewstring();
