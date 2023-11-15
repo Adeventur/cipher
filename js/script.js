@@ -66,7 +66,7 @@ $(document).redy(function () {
     return str.split('').reverse().join('');
   }
 
-  // const originalSentence = "i am a sentence";
+  const originalSentence = "i am a sentence";
   const result = addMiddleLetter(originalSentence);
   const reversedResult = reverseString(result);
   console.log(reversedResult);
