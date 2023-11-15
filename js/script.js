@@ -26,8 +26,6 @@ $(document).ready(function () {
     let indexLetter = parseInt((text.length) / 2);
     return indexLetter;
   }
-// open countcharacters()
-
 
   // Create a function to count the number of letter in a sentence
   function countLetters() {
